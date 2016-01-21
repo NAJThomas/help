@@ -1,2 +1,2 @@
-myname 'nathalie'
-print my name
+myname = 'nathalie thomas'
+print myname
