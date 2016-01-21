@@ -1,2 +1,2 @@
-myname Nathalie
+myname 'nathalie'
 print my name
